@@ -1,11 +1,9 @@
 ### Yusuf Erbasan - Jr. Frontend Developer
 
-> **General**  :
+> **Skills**  :
 > ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 > ![Jira](https://img.shields.io/badge/jira-0146b3?style=for-the-badge&logo=jira&logoColor=white)
 > ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-> **Front-End** : 
 > <img src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white" />    
 >  <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
 >  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
